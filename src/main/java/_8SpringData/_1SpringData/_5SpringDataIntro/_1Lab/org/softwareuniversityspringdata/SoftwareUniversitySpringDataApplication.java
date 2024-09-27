@@ -1,4 +1,4 @@
-package _8SpringData._5SpringDataIntro._1Lab.org.softwareuniversityspringdata;
+package _8SpringData._1SpringData._5SpringDataIntro._1Lab.org.softwareuniversityspringdata;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

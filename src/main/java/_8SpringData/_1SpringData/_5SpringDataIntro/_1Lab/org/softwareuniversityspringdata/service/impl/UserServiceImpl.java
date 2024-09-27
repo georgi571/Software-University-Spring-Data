@@ -1,8 +1,8 @@
-package _8SpringData._5SpringDataIntro._1Lab.org.softwareuniversityspringdata.service.impl;
+package _8SpringData._1SpringData._5SpringDataIntro._1Lab.org.softwareuniversityspringdata.service.impl;
 
-import _8SpringData._5SpringDataIntro._1Lab.org.softwareuniversityspringdata.data.entities.User;
-import _8SpringData._5SpringDataIntro._1Lab.org.softwareuniversityspringdata.data.repositories.UserRepository;
-import _8SpringData._5SpringDataIntro._1Lab.org.softwareuniversityspringdata.service.UserService;
+import _8SpringData._1SpringData._5SpringDataIntro._1Lab.org.softwareuniversityspringdata.data.entities.User;
+import _8SpringData._1SpringData._5SpringDataIntro._1Lab.org.softwareuniversityspringdata.data.repositories.UserRepository;
+import _8SpringData._1SpringData._5SpringDataIntro._1Lab.org.softwareuniversityspringdata.service.UserService;
 import org.springframework.stereotype.Service;
 
 import java.util.Optional;

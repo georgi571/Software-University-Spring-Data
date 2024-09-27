@@ -1,9 +1,9 @@
-package _8SpringData._5SpringDataIntro._1Lab.org.softwareuniversityspringdata;
+package _8SpringData._1SpringData._5SpringDataIntro._1Lab.org.softwareuniversityspringdata;
 
-import _8SpringData._5SpringDataIntro._1Lab.org.softwareuniversityspringdata.data.entities.Account;
-import _8SpringData._5SpringDataIntro._1Lab.org.softwareuniversityspringdata.data.entities.User;
-import _8SpringData._5SpringDataIntro._1Lab.org.softwareuniversityspringdata.service.AccountService;
-import _8SpringData._5SpringDataIntro._1Lab.org.softwareuniversityspringdata.service.UserService;
+import _8SpringData._1SpringData._5SpringDataIntro._1Lab.org.softwareuniversityspringdata.data.entities.Account;
+import _8SpringData._1SpringData._5SpringDataIntro._1Lab.org.softwareuniversityspringdata.data.entities.User;
+import _8SpringData._1SpringData._5SpringDataIntro._1Lab.org.softwareuniversityspringdata.service.AccountService;
+import _8SpringData._1SpringData._5SpringDataIntro._1Lab.org.softwareuniversityspringdata.service.UserService;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 

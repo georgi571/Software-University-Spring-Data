@@ -1,4 +1,4 @@
-package _8SpringData._5SpringDataIntro._1Lab.org.softwareuniversityspringdata.data.entities;
+package _8SpringData._1SpringData._5SpringDataIntro._1Lab.org.softwareuniversityspringdata.data.entities;
 
 import jakarta.persistence.*;
 

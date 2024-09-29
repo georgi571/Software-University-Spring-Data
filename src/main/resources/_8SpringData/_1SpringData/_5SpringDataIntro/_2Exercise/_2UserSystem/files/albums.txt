@@ -1,0 +1,63 @@
+Mountain Peaks, Sky Blue, true, georgi571
+Coffee Breaks, Brown, false, georgi571
+City Nightlife, Dark Purple, true, georgi571
+Nature Vibes, Green, true, SkyWalker93
+City Lights, Blue, false, SkyWalker93
+Summer Memories, Yellow, true, SkyWalker93
+Wildlife Adventures, Brown, false, PixelNinja007
+Ocean Dreams, Teal, true, PixelNinja007
+Night Sky, Black, true, PixelNinja007
+Autumn Wonders, Gray, false, QuantumFalcon
+Magical Moments, Red, true, QuantumFalcon
+Ocean Sunrises, Purple, true, QuantumFalcon
+Tech Events, Orange, false, NeonShadowX
+Coding Life, White, true, NeonShadowX
+Home Office, Silver, false, NeonShadowX
+Fitness Goals, Sand, true, ElectricVortex88
+Wellness Journey Achieved, Pink, false, ElectricVortex88
+Cycling Trips, Gold, true, ElectricVortex88
+World Travels, Peach, true, CrimsonRider
+Tropical Getaways, Navy, false, CrimsonRider
+Adventure Trips, Olive, true, CrimsonRider
+Culinary Adventures, Cyan, true, CyberPhoenix21
+Cooking Journey, Lavender, false, CyberPhoenix21
+Wine Lovers, Beige, true, CyberPhoenix21
+Art Events, Rose, false, LunarEcho
+Art Journey, Mint, true, LunarEcho
+Creative Classes, Crimson, false, LunarEcho
+Book Adventures, Silver, true, MysticPulse
+Reading Experiences, Maroon, false, MysticPulse
+Writing Journey, Aqua, true, MysticPulse
+Film Nights, Lime, true, BlazeTiger
+Film Events, Violet, false, BlazeTiger
+Documentary Nights, Coral, true, BlazeTiger
+Nature Trails, Charcoal, false, SilentSparrow
+Environmental Efforts, Gold, true, SilentSparrow
+Stargazing Adventures, Forest Green, true, SilentSparrow
+Gaming Life, Tangerine, false, SolarKnight
+Programming Life, Steel Blue, true, SolarKnight
+VR Adventures, Lavender, false, SolarKnight
+Fashion Events, Cream, true, FrostbyteZ
+Beauty Journey, Red, false, FrostbyteZ
+Fashion Trends, Emerald, true, FrostbyteZ
+Fitness Goals Achieved, Navy Blue, true, IronGuardian77
+Wellness Journey, Sky Blue, false, IronGuardian77
+Outdoor Adventures, Olive Green, true, IronGuardian77
+New Adventure Trips, Yellow, true, ShadowDancer45
+Nature Escapes, Burnt Orange, false, ShadowDancer45
+Water Adventures, Azure, true, ShadowDancer45
+Music Journey, Purple, true, SilverNova
+Music Adventures, Moss Green, false, SilverNova
+Festival Life, Pastel Pink, true, SilverNova
+City Explorations, Light Blue, true, EpicDreamer
+History Trails, Dark Red, false, EpicDreamer
+Cultural Events, Pale Yellow, true, EpicDreamer
+Pet Adventures, Bronze, true, TurboFalcon9
+Animal Care, Cobalt Blue, false, TurboFalcon9
+Pet Events, Snow White, true, TurboFalcon9
+Culinary Experiences, Ruby Red, true, CosmicVoyager
+Food Adventures, Burgundy, false, CosmicVoyager
+Baking Fun, Light Brown, true, CosmicVoyager
+Gardening Projects, Gray Blue, false, NightWolf202
+Garden Harvest, Turquoise, true, NightWolf202
+Gardening Community, Midnight Black, true, NightWolf202

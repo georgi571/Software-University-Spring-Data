@@ -1,0 +1,72 @@
+Blagoevgrad, Bulgaria
+Sofia, Bulgaria
+Plovdiv, Bulgaria
+Varna, Bulgaria
+Burgas, Bulgaria
+Ruse, Bulgaria
+Stara Zagora, Bulgaria
+Pleven, Bulgaria
+Kuala Lampur, Malaysia
+Petaling Jaya, Malaysia
+Putrajaya, Malaysia
+Johor Bahru, Malaysia
+Athens, Greece
+Piraeus, Greece
+Thessaloniki, Greece
+Kavala, Greece
+Corfu, Greece
+Istanbul, Turkey
+Ankara, Turkey
+Izmir, Turkey
+Bursa, Turkey
+Antalya, Turkey
+Bucharest, Romania
+Craiova, Romania
+Oradea, Romania
+Suceava, Romania
+Skopje, Macedonia
+Kumanovo, Macedonia
+Bitola, Macedonia
+Prilep, Macedonia
+Tetovo, Macedonia
+Jurong, Singapore
+Yishun, Singapore
+Orchard, Singapore
+Tampines, Singapore
+Jakarta, Indonesia
+Bandung, Indonesia
+Surabaya, Indonesia
+Yogyakarta, Indonesia
+Palembang, Indonesia
+Moscow, Russia
+Saint Petersburg, Russia
+Novosibirsk, Russia
+Kazan, Russia
+Samara, Russia
+New York City, USA
+Los Angeles, USA
+Chicago, USA
+Liverpool, England
+London, England
+Bristol, England
+Sao Paulo, Brazil
+Rio de Janeiro, Brazil
+Paris, France
+Strasbourg, France
+Lyon, France
+Tokyo, Japan
+Yokohama, Japan
+Osaka, Japan
+Nagoya, Japan
+Fukuoka, Japan
+Shanghai, China
+Dongguan, China
+Shenzhen, China
+Zhengzhou, China
+Baoding, China
+Hamburg, Germany
+Munich, Germany
+Berlin, Germany
+Toronto, Canada
+Montreal, Canada
+Calgary, Canada

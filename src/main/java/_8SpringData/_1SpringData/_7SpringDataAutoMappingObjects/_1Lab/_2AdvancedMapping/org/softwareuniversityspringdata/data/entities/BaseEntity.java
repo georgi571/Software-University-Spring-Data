@@ -3,7 +3,7 @@ package _8SpringData._1SpringData._7SpringDataAutoMappingObjects._1Lab._2Advance
 import jakarta.persistence.*;
 
 @MappedSuperclass
-public class BaseEntity {
+public abstract class BaseEntity {
     @Id
     @Column(name = "id")
     @GeneratedValue(strategy = GenerationType.IDENTITY)

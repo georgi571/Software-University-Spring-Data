@@ -7,7 +7,6 @@ import org.modelmapper.ModelMapper;
 import _8SpringData._1SpringData._8JSONProcessing._1Lab._1ProductsShop.org.softwareuniversityspringdata.data.entities.User;
 import _8SpringData._1SpringData._8JSONProcessing._1Lab._1ProductsShop.org.softwareuniversityspringdata.data.repositories.UserRepository;
 import _8SpringData._1SpringData._8JSONProcessing._1Lab._1ProductsShop.org.softwareuniversityspringdata.service.UserService;
-import org.softwareuniversityspringdata.service.dtos.exports.*;
 import _8SpringData._1SpringData._8JSONProcessing._1Lab._1ProductsShop.org.softwareuniversityspringdata.util.ValidationUtil;
 import org.springframework.stereotype.Service;
 

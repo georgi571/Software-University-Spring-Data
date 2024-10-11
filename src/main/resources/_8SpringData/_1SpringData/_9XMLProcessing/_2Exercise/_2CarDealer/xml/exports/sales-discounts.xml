@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sales>
+    <sale>
+        <car/>
+        <customer-name>Hipolito Lamoreaux</customer-name>
+        <discount>0.05</discount>
+        <price>3343.32</price>
+        <price-with-discount>3176.1540</price-with-discount>
+    </sale>
+    <sale>
+        <car/>
+        <customer-name>Kristian Engberg</customer-name>
+        <discount>0.4</discount>
+        <price>4442.94</price>
+        <price-with-discount>2665.764</price-with-discount>
+    </sale>
+    <sale>
+        <car/>
+        <customer-name>Garret Capron</customer-name>
+        <discount>0.15</discount>
+        <price>2877.75</price>
+        <price-with-discount>2446.0875</price-with-discount>
+    </sale>
+    <sale>
+        <car/>
+        <customer-name>Hai Everton</customer-name>
+        <discount>0.05</discount>
+        <price>4198.78</price>
+        <price-with-discount>3988.8410</price-with-discount>
+    </sale>
+    <sale>
+        <car/>
+        <customer-name>Lino Subia</customer-name>
+        <discount>0.3</discount>
+        <price>3916.09</price>
+        <price-with-discount>2741.263</price-with-discount>
+    </sale>
+    <sale>
+        <car/>
+        <customer-name>Carri Knapik</customer-name>
+        <discount>0.05</discount>
+        <price>1688.89</price>
+        <price-with-discount>1604.4455</price-with-discount>
+    </sale>
+    <sale>
+        <car/>
+        <customer-name>Audrea Cardinal</customer-name>
+        <discount>0.5</discount>
+        <price>1490.15</price>
+        <price-with-discount>745.075</price-with-discount>
+    </sale>
+    <sale>
+        <car/>
+        <customer-name>Ann Mcenaney</customer-name>
+        <discount>0.4</discount>
+        <price>6493.20</price>
+        <price-with-discount>3895.920</price-with-discount>
+    </sale>
+    <sale>
+        <car/>
+        <customer-name>Audrea Cardinal</customer-name>
+        <discount>0.15</discount>
+        <price>6232.89</price>
+        <price-with-discount>5297.9565</price-with-discount>
+    </sale>
+    <sale>
+        <car/>
+        <customer-name>Garret Capron</customer-name>
+        <discount>0.5</discount>
+        <price>4352.16</price>
+        <price-with-discount>2176.080</price-with-discount>
+    </sale>
+    <sale>
+        <car/>
+        <customer-name>Garret Capron</customer-name>
+        <discount>0.05</discount>
+        <price>1962.33</price>
+        <price-with-discount>1864.2135</price-with-discount>
+    </sale>
+    <sale>
+        <car/>
+        <customer-name>Hipolito Lamoreaux</customer-name>
+        <discount>0.5</discount>
+        <price>5027.85</price>
+        <price-with-discount>2513.925</price-with-discount>
+    </sale>
+    <sale>
+        <car/>
+        <customer-name>Garret Capron</customer-name>
+        <discount>0.2</discount>
+        <price>3830.61</price>
+        <price-with-discount>3064.488</price-with-discount>
+    </sale>
+    <sale>
+        <car/>
+        <customer-name>Cinthia Lasala</customer-name>
+        <discount>0.4</discount>
+        <price>6802.28</price>
+        <price-with-discount>4081.368</price-with-discount>
+    </sale>
+    <sale>
+        <car/>
+        <customer-name>Hai Everton</customer-name>
+        <discount>0.15</discount>
+        <price>6595.92</price>
+        <price-with-discount>5606.5320</price-with-discount>
+    </sale>
+    <sale>
+        <car/>
+        <customer-name>Kristian Engberg</customer-name>
+        <discount>0.05</discount>
+        <price>4024.74</price>
+        <price-with-discount>3823.5030</price-with-discount>
+    </sale>
+    <sale>
+        <car/>
+        <customer-name>Audrea Cardinal</customer-name>
+        <discount>0.2</discount>
+        <price>2006.61</price>
+        <price-with-discount>1605.288</price-with-discount>
+    </sale>
+    <sale>
+        <car/>
+        <customer-name>Zada Attwood</customer-name>
+        <discount>0.15</discount>
+        <price>6174.02</price>
+        <price-with-discount>5247.9170</price-with-discount>
+    </sale>
+    <sale>
+        <car/>
+        <customer-name>Marcelle Griego</customer-name>
+        <discount>0.1</discount>
+        <price>5276.00</price>
+        <price-with-discount>4748.400</price-with-discount>
+    </sale>
+    <sale>
+        <car/>
+        <customer-name>Emmitt Benally</customer-name>
+        <discount>0.5</discount>
+        <price>1329.87</price>
+        <price-with-discount>664.935</price-with-discount>
+    </sale>
+    <sale>
+        <car/>
+        <customer-name>Garret Capron</customer-name>
+        <discount>0.5</discount>
+        <price>4021.57</price>
+        <price-with-discount>2010.785</price-with-discount>
+    </sale>
+    <sale>
+        <car/>
+        <customer-name>Hipolito Lamoreaux</customer-name>
+        <discount>0.3</discount>
+        <price>6896.41</price>
+        <price-with-discount>4827.487</price-with-discount>
+    </sale>
+    <sale>
+        <car/>
+        <customer-name>Audrea Cardinal</customer-name>
+        <discount>0.05</discount>
+        <price>6694.09</price>
+        <price-with-discount>6359.3855</price-with-discount>
+    </sale>
+    <sale>
+        <car/>
+        <customer-name>Zada Attwood</customer-name>
+        <discount>0.1</discount>
+        <price>4909.21</price>
+        <price-with-discount>4418.289</price-with-discount>
+    </sale>
+    <sale>
+        <car/>
+        <customer-name>Jimmy Grossi</customer-name>
+        <discount>0.3</discount>
+        <price>6403.57</price>
+        <price-with-discount>4482.499</price-with-discount>
+    </sale>
+    <sale>
+        <car/>
+        <customer-name>Zada Attwood</customer-name>
+        <discount>0.5</discount>
+        <price>7402.85</price>
+        <price-with-discount>3701.425</price-with-discount>
+    </sale>
+    <sale>
+        <car/>
+        <customer-name>Louann Holzworth</customer-name>
+        <discount>0.15</discount>
+        <price>3166.91</price>
+        <price-with-discount>2691.8735</price-with-discount>
+    </sale>
+    <sale>
+        <car/>
+        <customer-name>Carri Knapik</customer-name>
+        <discount>0.05</discount>
+        <price>2856.83</price>
+        <price-with-discount>2713.9885</price-with-discount>
+    </sale>
+    <sale>
+        <car/>
+        <customer-name>Hipolito Lamoreaux</customer-name>
+        <discount>0.2</discount>
+        <price>2721.69</price>
+        <price-with-discount>2177.352</price-with-discount>
+    </sale>
+    <sale>
+        <car/>
+        <customer-name>Sylvie Mcelravy</customer-name>
+        <discount>0.05</discount>
+        <price>2820.71</price>
+        <price-with-discount>2679.6745</price-with-discount>
+    </sale>
+    <sale>
+        <car/>
+        <customer-name>Garret Capron</customer-name>
+        <discount>0.2</discount>
+        <price>6344.80</price>
+        <price-with-discount>5075.840</price-with-discount>
+    </sale>
+    <sale>
+        <car/>
+        <customer-name>Audrea Cardinal</customer-name>
+        <discount>0.4</discount>
+        <price>6123.91</price>
+        <price-with-discount>3674.346</price-with-discount>
+    </sale>
+    <sale>
+        <car/>
+        <customer-name>Oren Perlman</customer-name>
+        <discount>0.2</discount>
+        <price>1770.44</price>
+        <price-with-discount>1416.352</price-with-discount>
+    </sale>
+    <sale>
+        <car/>
+        <customer-name>Johnette Derryberry</customer-name>
+        <discount>0.3</discount>
+        <price>2656.54</price>
+        <price-with-discount>1859.578</price-with-discount>
+    </sale>
+    <sale>
+        <car/>
+        <customer-name>Rema Revelle</customer-name>
+        <discount>0.3</discount>
+        <price>3866.51</price>
+        <price-with-discount>2706.557</price-with-discount>
+    </sale>
+    <sale>
+        <car/>
+        <customer-name>Hai Everton</customer-name>
+        <discount>0.05</discount>
+        <price>6680.02</price>
+        <price-with-discount>6346.0190</price-with-discount>
+    </sale>
+    <sale>
+        <car/>
+        <customer-name>Emmitt Benally</customer-name>
+        <discount>0.5</discount>
+        <price>9723.18</price>
+        <price-with-discount>4861.590</price-with-discount>
+    </sale>
+    <sale>
+        <car/>
+        <customer-name>Lino Subia</customer-name>
+        <discount>0.2</discount>
+        <price>3264.12</price>
+        <price-with-discount>2611.296</price-with-discount>
+    </sale>
+    <sale>
+        <car/>
+        <customer-name>Zada Attwood</customer-name>
+        <discount>0.05</discount>
+        <price>6904.11</price>
+        <price-with-discount>6558.9045</price-with-discount>
+    </sale>
+    <sale>
+        <car/>
+        <customer-name>Johnette Derryberry</customer-name>
+        <discount>0.15</discount>
+        <price>2378.09</price>
+        <price-with-discount>2021.3765</price-with-discount>
+    </sale>
+    <sale>
+        <car/>
+        <customer-name>Teddy Hobby</customer-name>
+        <discount>0.15</discount>
+        <price>2840.15</price>
+        <price-with-discount>2414.1275</price-with-discount>
+    </sale>
+    <sale>
+        <car/>
+        <customer-name>Johnette Derryberry</customer-name>
+        <discount>0.3</discount>
+        <price>6682.62</price>
+        <price-with-discount>4677.834</price-with-discount>
+    </sale>
+    <sale>
+        <car/>
+        <customer-name>Garret Capron</customer-name>
+        <discount>0.15</discount>
+        <price>6893.14</price>
+        <price-with-discount>5859.1690</price-with-discount>
+    </sale>
+    <sale>
+        <car/>
+        <customer-name>Nisha Markwell</customer-name>
+        <discount>0.15</discount>
+        <price>9007.62</price>
+        <price-with-discount>7656.4770</price-with-discount>
+    </sale>
+    <sale>
+        <car/>
+        <customer-name>Louann Holzworth</customer-name>
+        <discount>0.05</discount>
+        <price>10601.85</price>
+        <price-with-discount>10071.7575</price-with-discount>
+    </sale>
+    <sale>
+        <car/>
+        <customer-name>Yvonne Mccalla</customer-name>
+        <discount>0.1</discount>
+        <price>7221.08</price>
+        <price-with-discount>6498.972</price-with-discount>
+    </sale>
+    <sale>
+        <car/>
+        <customer-name>Lino Subia</customer-name>
+        <discount>0.2</discount>
+        <price>4123.77</price>
+        <price-with-discount>3299.016</price-with-discount>
+    </sale>
+</sales>

@@ -29,11 +29,11 @@ public class CommandLineRunnerImpl implements CommandLineRunner {
         this.customerService.seedCustomers();
         this.saleService.seedSales();
 
-//        this.customerService.exportOrderedCustomers();
-//        this.carService.exportModelCars("Toyota");
-//        this.supplierService.exportLocalSuppliers();
-//        this.carService.exportCarAndParts();
-//        this.customerService.exportCustomersWithBoughtCars();
+        this.customerService.exportOrderedCustomers();
+        this.carService.exportModelCars("Toyota");
+        this.supplierService.exportLocalSuppliers();
+        this.carService.exportCarAndParts();
+        this.customerService.exportCustomersWithBoughtCars();
         this.saleService.exportSales();
     }
 }

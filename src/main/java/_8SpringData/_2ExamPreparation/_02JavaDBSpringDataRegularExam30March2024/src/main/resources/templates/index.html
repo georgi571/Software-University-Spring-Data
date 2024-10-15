@@ -1,0 +1,47 @@
+</body>
+</html>
+<th:block th:fragment xmlns:th="http://www.w3.org/1999/xhtml">
+    <div class="container justify-content-center mt-3">
+        <div class="jumbotron index-jumbo d-flex justify-content-center">
+            <div class="container">
+                <div class="col-md-12 d-flex border-left border-bottom w-50">
+                    <h1 class="myBackgroundColor">Volcanoes</h1>
+                </div>
+                <div class="col-md-12 d-flex mt-3">
+                    <h4>
+                        There are more than 1,500 potentially active volcanoes or volcanic areas around the world at any
+                        given time.
+                        They may be the world’s most dynamic landforms,
+                        given their ability to grow by accretion or shatter and collapse during an eruption.
+                        <br>
+                        Volcanoes are vents in Earth’s crust capable of releasing molten rock (magma), hot rock
+                        fragments, and hot gases. Some volcanoes
+                        are prominent mountains or other land features that rise from islands or are nested within
+                        long mountain ranges, whereas others occur entirely underwater in ocean hotspots or at
+                        spreading centres along oceanic ridges. Some of the most destructive volcanoes in Earth’s
+                        history last erupted long before the development of civilization and writing, so the timing and
+                        effects of their
+                        activity must be inferred by investigating the landforms, rocks, and ash they left behind.
+                        However, the
+                        eruptive histories of many other volcanoes have been chronicled in written accounts that date
+                        back thousands
+                        of years.
+                    </h4>
+                </div>
+                <div class="col-md-12 text-center">
+                    <th:block th:if="${areImported == true}">
+                        <p><a class="btn btn-primary export-button text-white" th:href="@{/export/volcanoes}">Export
+                            volcanoes</a></p>
+                    </th:block>
+                    <div class="col-md-12 d-flex justify-content-center">
+                        <th:block th:if="${areImported == false}">
+                            <p class="bg-dark rounded p-2">Тo see the next task, first import all JSON and XML
+                                files.</p>
+                        </th:block>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</th:block>

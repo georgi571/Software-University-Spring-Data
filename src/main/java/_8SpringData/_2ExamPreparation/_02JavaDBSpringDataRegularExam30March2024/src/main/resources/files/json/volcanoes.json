@@ -1,0 +1,330 @@
+[
+  {
+    "name": "Mount Vesuvius",
+    "elevation": 1281,
+    "volcanoType": "STRATOVOLCANO",
+    "isActive": true,
+    "lastEruption": "2021-01-01",
+    "country": 1
+  },
+  {
+    "name": "Mount Vesuvius",
+    "elevation": 1281,
+    "volcanoType": "STRATOVOLCANO",
+    "isActive": true,
+    "lastEruption": "2021-01-01",
+    "country": 1
+  },
+  {
+    "name": "Mauna Loa",
+    "elevation": 4169,
+    "volcanoType": "SHIELD_VOLCANO",
+    "isActive": true,
+    "lastEruption": "2022-03-15",
+    "country": 2
+  },
+  {
+    "name": "Mount Fuji",
+    "elevation": 3776,
+    "volcanoType": "STRATOVOLCANO",
+    "isActive": false,
+    "lastEruption": "1707-12-16",
+    "country": 3
+  },
+  {
+    "name": "Mount St. Helens",
+    "elevation": 2549,
+    "volcanoType": "STRATOVOLCANO",
+    "isActive": false,
+    "lastEruption": "1980-05-18",
+    "country": 4
+  },
+  {
+    "name": "Mount Kilimanjaro",
+    "elevation": 5895,
+    "volcanoType": "STRATOVOLCANO",
+    "isActive": true,
+    "lastEruption": null,
+    "country": 9
+  },
+  {
+    "name": "Klyuchevskaya Sopka",
+    "elevation": 4754,
+    "volcanoType": "STRATOVOLCANO",
+    "isActive": true,
+    "lastEruption": "2022-02-28",
+    "country": 8
+  },
+  {
+    "name": "Popocatepetl",
+    "elevation": 5393,
+    "volcanoType": "STRATOVOLCANO",
+    "isActive": true,
+    "lastEruption": "2023-04-05",
+    "country": 6
+  },
+  {
+    "name": "Mount Elbrus",
+    "elevation": 5642,
+    "volcanoType": "STRATOVOLCANO",
+    "isActive": false,
+    "lastEruption": null,
+    "country": 5
+  },
+  {
+    "name": "Eyjafjallajokull",
+    "elevation": 1666,
+    "volcanoType": "STRATOVOLCANO",
+    "isActive": true,
+    "lastEruption": "2010-06-01",
+    "country": 7
+  },
+  {
+    "name": "Mount Erebus",
+    "elevation": 3794,
+    "volcanoType": "STRATOVOLCANO",
+    "isActive": true,
+    "lastEruption": null,
+    "country": 10
+  },
+  {
+    "name": "Mount Rainier",
+    "elevation": 4392,
+    "volcanoType": "STRATOVOLCANO",
+    "isActive": true,
+    "lastEruption": null,
+    "country": 4
+  },
+  {
+    "name": "Piton de la Fournaise",
+    "elevation": 2632,
+    "volcanoType": "SHIELD_VOLCANO",
+    "isActive": true,
+    "lastEruption": "2022-10-05",
+    "country": 12
+  },
+  {
+    "name": "Mount Etna",
+    "elevation": 3357,
+    "volcanoType": "STRATOVOLCANO",
+    "isActive": true,
+    "lastEruption": "2023-11-11",
+    "country": 1
+  },
+  {
+    "name": "Mount Shasta",
+    "elevation": 4322,
+    "volcanoType": "STRATOVOLCANO",
+    "isActive": false,
+    "lastEruption": null,
+    "country": 4
+  },
+  {
+    "name": "Mount Ijen",
+    "elevation": 2799,
+    "volcanoType": "STRATOVOLCANO",
+    "isActive": true,
+    "lastEruption": "2019-01-01",
+    "country": 11
+  },
+  {
+    "name": "Mount Rinjani",
+    "elevation": 3726,
+    "volcanoType": "STRATOVOLCANO",
+    "isActive": true,
+    "lastEruption": "2016-11-01",
+    "country": 11
+  },
+  {
+    "name": "Mount Merapi",
+    "elevation": 2884,
+    "volcanoType": "STRATOVOLCANO",
+    "isActive": true,
+    "lastEruption": "2023-12-03",
+    "country": 11
+  },
+  {
+    "name": "Mount Tambora",
+    "elevation": 2850,
+    "volcanoType": "STRATOVOLCANO",
+    "isActive": true,
+    "lastEruption": "1967-01-10",
+    "country": 11
+  },
+  {
+    "name": "Mount Pelee",
+    "elevation": 1397,
+    "volcanoType": "STRATOVOLCANO",
+    "isActive": true,
+    "lastEruption": "1932-01-01",
+    "country": 14
+  },
+  {
+    "name": "Pacaya",
+    "elevation": 2552,
+    "volcanoType": "STRATOVOLCANO",
+    "isActive": true,
+    "lastEruption": "2023-01-08",
+    "country": 12
+  },
+  {
+    "name": "Novarupta",
+    "elevation": 841,
+    "volcanoType": "STRATOVOLCANO",
+    "isActive": true,
+    "lastEruption": "1912-10-02",
+    "country": 4
+  },
+  {
+    "name": "Cotopaxi",
+    "elevation": 5897,
+    "volcanoType": "STRATOVOLCANO",
+    "isActive": true,
+    "lastEruption": "2022-04-20",
+    "country": 13
+  },
+  {
+    "name": "Mount Cleveland",
+    "elevation": 1730,
+    "volcanoType": "STRATOVOLCANO",
+    "isActive": true,
+    "lastEruption": "2017-05-17",
+    "country": 4
+  },
+  {
+    "name": "Santa Maria",
+    "elevation": 3772,
+    "volcanoType": "STRATOVOLCANO",
+    "isActive": true,
+    "lastEruption": "2021-08-14",
+    "country": 12
+  },
+  {
+    "name": "Mount Aniakchak",
+    "elevation": 1290,
+    "volcanoType": "CALDERA",
+    "isActive": true,
+    "lastEruption": "1931-06-06",
+    "country": 4
+  },
+  {
+    "name": "Paricutin",
+    "elevation": 2800,
+    "volcanoType": "CINDER_CONE",
+    "isActive": false,
+    "lastEruption": "2021-02-14",
+    "country": 6
+  },
+  {
+    "name": "Mount Jefferson",
+    "elevation": 3199,
+    "volcanoType": "STRATOVOLCANO",
+    "isActive": true,
+    "lastEruption": "2022-05-19",
+    "country": 4
+  },
+  {
+    "name": "Wizard Island",
+    "elevation": 2300,
+    "volcanoType": "CINDER_CONE",
+    "isActive": true,
+    "lastEruption": "2023-02-10",
+    "country": 4
+  },
+  {
+    "name": "Mount Tehama",
+    "elevation": 3367,
+    "volcanoType": "LAVA_DOME",
+    "isActive": false,
+    "lastEruption": null,
+    "country": 4
+  },
+  {
+    "name": "Mount Scott",
+    "elevation": 2758,
+    "volcanoType": "CINDER_CONE",
+    "isActive": false,
+    "lastEruption": null,
+    "country": 4
+  },
+  {
+    "name": "Mono-Inyo Craters",
+    "elevation": 2692,
+    "volcanoType": "LAVA_DOME",
+    "isActive": true,
+    "lastEruption": "1722-11-05",
+    "country": 4
+  },
+  {
+    "name": "Black Butte",
+    "elevation": 1945,
+    "volcanoType": "CINDER_CONE",
+    "isActive": true,
+    "lastEruption": null,
+    "country": 4
+  },
+  {
+    "name": "Lassen Peak",
+    "elevation": 3187,
+    "volcanoType": "LAVA_DOME",
+    "isActive": false,
+    "lastEruption": "1921-05-05",
+    "country": 4
+  },
+  {
+    "name": "Stromboli",
+    "elevation": 924,
+    "volcanoType": "CINDER_CONE",
+    "isActive": true,
+    "lastEruption": "2014-08-03",
+    "country": 1
+  },
+  {
+    "name": "Mount Sinabung",
+    "elevation": 2460,
+    "volcanoType": "STRATOVOLCANO",
+    "isActive": true,
+    "lastEruption": "2021-02-07",
+    "country": 11
+  },
+  {
+    "name": "Mount Semeru",
+    "elevation": 3676,
+    "volcanoType": "STRATOVOLCANO",
+    "isActive": true,
+    "lastEruption": "2021-01-16",
+    "country": 11
+  },
+  {
+    "name": "Mount Agung",
+    "elevation": 3031,
+    "volcanoType": "STRATOVOLCANO",
+    "isActive": true,
+    "lastEruption": "2019-11-26",
+    "country": 11
+  },
+  {
+    "name": "Krakatoa",
+    "elevation": 813,
+    "volcanoType": "CALDERA",
+    "isActive": true,
+    "lastEruption": "2022-02-03",
+    "country": 11
+  },
+  {
+    "name": "Mount Kelud",
+    "elevation": 1731,
+    "volcanoType": "STRATOVOLCANO",
+    "isActive": true,
+    "lastEruption": "2014-02-14",
+    "country": 11
+  },
+  {
+    "name": "Mount Bromo",
+    "elevation": 2329,
+    "volcanoType": "STRATOVOLCANO",
+    "isActive": true,
+    "lastEruption": "2016-03-17",
+    "country": 11
+  }
+]

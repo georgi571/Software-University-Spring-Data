@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Italy",
+    "capital": "Rome"
+  },
+  {
+    "name": "Italy",
+    "capital": "Rome"
+  },
+  {
+    "name": "Hawaii",
+    "capital": "Honolulu"
+  },
+  {
+    "name": "Japan",
+    "capital": "Tokyo"
+  },
+  {
+    "name": "USA",
+    "capital": "Washington"
+  },
+  {
+    "name": "Kabardino-Balkarian Republic",
+    "capital": "Nalchik"
+  },
+  {
+    "name": "Mexico",
+    "capital": "Mexico City"
+  },
+  {
+    "name": "Iceland",
+    "capital": "Reykjavik"
+  },
+  {
+    "name": "Russia",
+    "capital": "Moscow"
+  },
+  {
+    "name": "Tanzania",
+    "capital": "Dodoma"
+  },
+  {
+    "name": "Ross Island",
+    "capital": null
+  },
+  {
+    "name": "Indonesia",
+    "capital": "Jakarta"
+  },
+  {
+    "name": "Guatemala",
+    "capital": "Guatemala City"
+  },
+  {
+    "name": "Ecuador",
+    "capital": "Quito"
+  },
+  {
+    "name": "Martinique",
+    "capital": "Fort-de-France"
+  }
+]
